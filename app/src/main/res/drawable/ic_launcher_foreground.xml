@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Warning Badge Fill -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,26L82,75H26L54,26Z" />
+        
+    <!-- Central Exclamation Character inside Warning Shield -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M52.5,44h3v17h-3z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M52.5,65h3v3h-3z" />
+
+    <!-- Left expanding vibration shock brackets -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M23,38 A24,24 0 0,0 23,71" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M16,29 A36,36 0 0,0 16,80" />
+
+    <!-- Right expanding vibration shock brackets -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M85,38 A24,24 0 0,1 85,71" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M92,29 A36,36 0 0,1 92,80" />
+</vector>

@@ -1,0 +1,8 @@
+{
+  "name": "Bike Impact Tracker",
+  "description": "ESP32 Bluetooth bike impact recording and real-time map visualizer with Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
